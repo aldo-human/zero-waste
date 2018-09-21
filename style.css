@@ -1,0 +1,196 @@
+* {
+	box-sizing: border-box;
+}
+
+/*Header*/
+
+header {
+	height: 100vh;
+	background-image: url(../assets/images/af-line.svg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.af-section {
+	height: 86%;
+	padding: 20px 30px 30px 30px;
+	background-image: url(../assets/images/af-video.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-origin: content-box;
+}
+
+.afs-text {
+	padding: 15px;
+}
+
+.afst-title {
+	color: #35AF72;
+	font-family: gotham;
+	font-weight: 700;
+	font-size: calc(2em + 1vw);
+	line-height: 0.8;
+}
+
+.afst-title::before {
+	content: "CETYS";
+	display: block;
+	font-size: 1.3rem;
+	font-weight: 400;
+}
+
+.afst-text {
+	font-family: gotham;
+	color: #BCBDBF;
+	font-size: calc(.7em + .45vw);
+}
+
+/*Navigation*/
+
+.nav-link {
+	font-family: gotham;
+	color: #35AF72;
+	font-size: calc(1em + 0.2vw);
+}
+
+.green-lf-border {
+	border-right: solid 1.5px #35AF72;
+}
+
+.navbar {
+	padding: 1em 4em;
+	box-shadow: 15px 0px 15px rgba(0, 0, 0, 0.16);
+}
+
+.nav-item {
+	padding: 0px 1.8em;
+}
+
+.zw-logo {
+	max-width: 160px;
+}
+
+.fa-bars {
+	color: #2BB573;
+}
+
+/*Video Section*/
+
+.video-section {
+	background-image: url("../assets/images/af-video.svg");
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-clip: border-box;
+	padding: 0;
+	height: 100%;
+	background-color: Crimson;
+}
+
+.video-container {
+	margin: auto;
+	width: 29%;
+}
+
+.intro-text {
+	margin-top: 70px;
+	margin-left: 350px;
+}
+
+/*Aleo*/
+
+@font-face {
+	font-family: "aleo";
+	src: url(../assets/fonts/aleo-regular.otf) format("opentype");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "aleo";
+	src: url(../assets/fonts/aleo-bold.otf) format("opentype");
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "aleo";
+	src: url(../assets/fonts/aleo-italic.otf) format("opentype");
+	font-style: italic;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "aleo";
+	src: url(../assets/fonts/aleo-light.otf) format("opentype");
+	font-style: normal;
+	font-weight: 300;
+}
+
+/*Gotham*/
+
+@font-face {
+	font-family: "gotham";
+	src: url(../assets/fonts/gotham-book.otf) format("opentype");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "gotham";
+	src: url(../assets/fonts/gotham-bold.otf) format("opentype");
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: "gotham";
+	src: url(../assets/fonts/gotham-book-italic.otf) format("opentype");
+	font-style: italic;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "gotham";
+	src: url(../assets/fonts/gotham-light.otf) format("opentype");
+	font-style: normal;
+	font-weight: 300;
+}
+
+.main-a {
+	width: 100%;
+	height: 100vh;
+}
+
+.test-container {
+	width: 1842px;
+	height: 1308px;
+	background-color: Crimson;
+	margin: auto;
+	background-image: url(../assets/images/af-video.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+}
+
+.test-container-2 {
+	width: 837px;
+	height: 470px;
+	background: SpringGreen;
+	position: absolute;
+}
+
+@media only screen and (max-width:63.125em) { 
+	.test-container {
+		width: 750px;
+		height: 533px
+	}
+
+	.test-container-2 {
+		width: 344px;
+		height: 193px;
+	}
+}
