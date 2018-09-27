@@ -14,5 +14,5 @@
 
 .nav-link:hover {
 	color: #20C896;
-	transform: translate(0px 40px);
+	transform: translate(10px);
 }
