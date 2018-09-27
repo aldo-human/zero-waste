@@ -14,4 +14,6 @@
 
 .nav-link:hover {
 	color: #20C896;
+	transform: translate(0px 4px);
+	font-weight: 700;
 }
