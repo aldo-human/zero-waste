@@ -1,64 +1,12 @@
-/*Aleo*/
+/*Header - Navbar*/
 
-@font-face {
-	font-family: "aleo";
-	src: url(../assets/fonts/aleo-regular.otf) format("opentype");
-	font-style: normal;
-	font-weight: 400;
+.navbar {
+	background: #fff;
+	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.16);
 }
 
-@font-face {
-	font-family: "aleo";
-	src: url(../assets/fonts/aleo-bold.otf) format("opentype");
-	font-style: normal;
-	font-weight: 700;
-}
-
-@font-face {
-	font-family: "aleo";
-	src: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/fonts/aleo-italic.OTF) format("opentype");
-	font-style: italic;
-	font-weight: 400;
-}
-
-@font-face {
-	font-family: "aleo";
-	src: url(../assets/fonts/aleo-light.otf) format("opentype");
-	font-style: normal;
-	font-weight: 300;
-}
-
-/*Gotham*/
-
-@font-face {
-	font-family: "gotham";
-	src: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/fonts/gotham-book.OTF) format("opentype");
-	font-style: normal;
-	font-weight: 400;
-}
-
-@font-face {
-	font-family: "gotham";
-	src: url(../assets/fonts/gotham-bold.otf) format("opentype");
-	font-style: normal;
-	font-weight: 700;
-}
-
-@font-face {
-	font-family: "gotham";
-	src: url(../assets/fonts/gotham-book-italic.otf) format("opentype");
-	font-style: italic;
-	font-weight: 400;
-}
-
-@font-face {
-	font-family: "gotham";
-	src: url(../assets/fonts/gotham-light.otf) format("opentype");
-	font-style: normal;
-	font-weight: 300;
-}
-
-h1 {
-	color: Crimson;
-	font-weight: 400;
+.nav-link {
+	font-family: Gotham;
+	font-size: 4em;
+	color: #2BB573;
 }
