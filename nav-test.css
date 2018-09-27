@@ -32,7 +32,7 @@
 
 @font-face {
 	font-family: "gotham";
-	src: url(../assets/fonts/gotham-book.otf) format("opentype");
+	src: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/fonts/gotham-book.OTF) format("opentype");
 	font-style: normal;
 	font-weight: 400;
 }
