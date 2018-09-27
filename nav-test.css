@@ -7,6 +7,10 @@
 
 .nav-link {
 	font-family: Montserrat;
-	font-size: 2em;
+	font-size: 1.3em;
 	color: #2BB573;
+}
+
+.nav-link:hover {
+	color: #20C896;
 }
