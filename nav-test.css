@@ -57,3 +57,10 @@
 	font-style: normal;
 	font-weight: 300;
 }
+
+h1 {
+	color: Crimson;
+	font-family: aleo;
+	font-style: italic;
+	font-weight: 400;
+}
