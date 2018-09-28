@@ -14,10 +14,11 @@
 
 .nav-link:hover {
 	color: #20C896;
+	border-radius: 5px;
 	border: solid 1px #2BB573;
 	transform: translate(0px, -4px); 
 }
 
 .zw-logo {
-	width: calc(200px;);
+	width: 200px;
 }
