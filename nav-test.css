@@ -75,7 +75,7 @@
 @media (min-width: 992px) { 
 
 	.nav-link {
-		font-size: calc(1em + .18vw);
+		font-size: calc(1em + .1vw);
 	}
 
  }
