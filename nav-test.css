@@ -16,6 +16,10 @@
 	border-left: solid 1px #2BB573;
 }
 
+.nav-left-border:hover {
+	border-left: none;	
+}
+
 .nav-link:hover {
 	color: #20C896;
 	border-radius: 5px;
