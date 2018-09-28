@@ -77,7 +77,7 @@
 	.nav-link {
 		font-size: calc(.9em + .1vw);
 		color: blue;
-		padding: auto 2em;
+		padding: auto .5em;
 	}
 
  }
