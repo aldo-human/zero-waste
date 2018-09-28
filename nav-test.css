@@ -12,6 +12,10 @@
 	transition: all .5s;
 }
 
+.nav-left-border {
+	border-left: solid 1px #2BB573;
+}
+
 .nav-link:hover {
 	color: #20C896;
 	border-radius: 5px;
