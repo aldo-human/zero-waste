@@ -7,7 +7,7 @@
 
 .nav-link {
 	font-family: Montserrat;
-	font-size: 1.6em;
+	font-size: calc(1em + 1vw);
 	color: #2BB573;
 	transition: all .5s;
 }
