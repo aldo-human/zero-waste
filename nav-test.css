@@ -7,7 +7,7 @@
 
 .nav-link {
 	font-family: Montserrat;
-	font-size: calc(1em + .25vw);
+	font-size: calc(1em + .2vw);
 	color: #2BB573;
 	transition: all .5s;
 }
@@ -28,5 +28,5 @@
 }
 
 .zw-logo {
-	width: 200px;
+	width: calc(150px + .5vw;)
 }
