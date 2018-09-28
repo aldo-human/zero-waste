@@ -54,13 +54,28 @@
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) { 
 
+	/*Header - Nav - Video - Down Arrow*/
+
 	.navbar {
 		padding: 0px;
 	}
 
+	.nav-left-border {
+	    border-left: none;
+    }
 
+    .nav-link:hover {
+		color: #20C896;
+		border-radius: 0px;
+		border: none;
+		transform: none; 
+    }
 
- }
+    .nav-link {
+    	text-align: center;
+    }
+
+}
 
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) { ... }
