@@ -133,25 +133,25 @@
 .af-section {
 	/*width: 1842px;
 	height: 1308px;*/
-	width: 100%;
-	height: auto;
-	margin: auto;
-	background-image: none;
-	position: static;
+	width: 100% !important;
+	height: auto !important;
+	margin: auto !important;
+	background-image: none !important;
+	position: static !important;
 }
 
 .af-video-container {
 	/*width: 837px;
 	height: 470px;*/
-	width: 100%;
-	height: auto;
+	width: 100% !important;
+	height: auto !important;
 	background-image: url( 	https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/zw-logo-green.svg);
-	background-size: auto;
-	background-position: center center;
-	background-repeat: no-repeat;
-	position: static;
-	top: 0;
-	left: 0;
+	background-size: auto !important;
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+	position: static !important;
+	top: 0 !important;
+	left: 0 !important;
 }
 
 }
