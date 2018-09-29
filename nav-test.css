@@ -112,3 +112,18 @@
 
 /*Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) { ... }
+
+/*Specific for above the fold video section*/
+@media only screen and (max-width:75.625em) { 
+	.af-section {
+	width: 820px;
+	height: 603.550313249px;
+}
+
+.af-video-container {
+	width: 371.2804433728px;
+	height: 208.4848367804px;
+	top: 32.33%;
+	left: 27.42%;
+}
+}
