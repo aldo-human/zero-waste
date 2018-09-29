@@ -114,18 +114,7 @@
 @media (min-width: 1200px) { ... }
 
 /*Specific for above the fold video section*/
-@media (max-width:75.625em) { 
-	.af-section {
-	width: 820px;
-	height: 582.2486887715px;
-}
 
-.af-video-container {
-	width: 371.2804733728px;
-	height: 209.2213561257px;
-	top: 32.33%;
-	left: 27.42%;
-}
 }
 
 @media (max-width:53.4375em) { 
@@ -154,4 +143,17 @@
 	left: 0 !important;
 }
 
+}
+
+@media (max-width:75.625em) { 
+	.af-section {
+	width: 820px;
+	height: 582.2486887715px;
+}
+
+.af-video-container {
+	width: 371.2804733728px;
+	height: 209.2213561257px;
+	top: 32.33%;
+	left: 27.42%;
 }
