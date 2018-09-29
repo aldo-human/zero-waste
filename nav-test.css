@@ -176,6 +176,20 @@
 
 .zw-title-container {
 	margin-bottom: 0;
+	padding: 10px;
+}
+
+.af-title {
+  font-size: 4rem;
+}
+
+.af-title:before {
+  font-size: 1rem;
+  margin-bottom: -20px;
+}
+
+.af-text {
+  font-size: 1.4em;
 }
 
 }
