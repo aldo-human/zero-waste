@@ -84,7 +84,7 @@
 }
 
 .zw-title-container {
-	margin-bottom: -160px;
+	margin-bottom: -8vw;
 	position: relative;
 	z-index: 2;
 }
@@ -172,6 +172,10 @@
 
 .af-video-container-2 {
 	display: block;
+}
+
+.zw-title-container {
+	margin-bottom: 0;
 }
 
 }
