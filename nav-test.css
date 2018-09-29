@@ -61,6 +61,26 @@
 	display: none;
 }
 
+.af-title {
+  color: #2BB573;
+  font-family: Montserrat;
+  font-size: 4em;
+  font-weight: 700;
+}
+
+.af-title:before {
+  content: "CETYS";
+  display: block;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-bottom: -20px;
+}
+
+.af-text {
+  color: #BCBDBF;
+  font-size: 1.3em;
+  font-family: Montserrat;
+}
 
 
 /*Bootstrap Breakpoints*/
