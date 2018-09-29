@@ -30,6 +30,34 @@
 	color: #20C896;
 }
 
+.af-section {
+	/*width: 1842px;
+	height: 1308px;*/
+	width: 1267.5px;
+	height: 900px;
+	margin: auto;
+	background-image: url( 	https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/af-video.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	margin-top: -90px;
+}
+
+.af-video-container {
+	/*width: 837px;
+	height: 470px;*/
+	width: 573.9px;
+	height: 323.4px;
+	background-image: url( 	https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/zw-logo-green.svg);
+	background-size: auto;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 32.33%;
+	left: 27.42%;
+}
+
 
 /*Bootstrap Breakpoints*/
 
