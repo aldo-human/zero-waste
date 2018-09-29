@@ -127,3 +127,23 @@
 	left: 27.42%;
 }
 }
+
+@media only screen and (max-width:53.4375em) { 
+	.af-section {
+	/*width: 1842px;
+	height: 1308px;*/
+	width: 100%;
+	height: auto;
+	margin: auto;
+	background-image: none;
+	position: static;
+}
+
+.af-video-container {
+	/*width: 837px;
+	height: 470px;*/
+	width: 100%;
+	height: auto;
+	position: static;
+}
+}
