@@ -129,7 +129,8 @@
 }
 
 @media only screen and (max-width:53.4375em) { 
-	.af-section {
+
+.af-section {
 	/*width: 1842px;
 	height: 1308px;*/
 	width: 100%;
@@ -144,6 +145,13 @@
 	height: 470px;*/
 	width: 100%;
 	height: auto;
+	background-image: url( 	https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/zw-logo-green.svg);
+	background-size: auto;
+	background-position: center center;
+	background-repeat: no-repeat;
 	position: static;
+	top: 0;
+	left: 0;
 }
+
 }
