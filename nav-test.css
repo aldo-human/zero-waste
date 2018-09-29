@@ -180,16 +180,16 @@
 }
 
 .af-title {
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 
 .af-title:before {
-  font-size: 1rem;
+  font-size: .8rem;
   margin-bottom: -20px;
 }
 
 .af-text {
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 }
