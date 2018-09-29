@@ -79,12 +79,12 @@
 
 .af-text {
   color: #BCBDBF;
-  font-size: calc(.8em + .1vw);
+  font-size: calc(.9em + .1vw);
   font-family: Montserrat;
 }
 
 .zw-title-container {
-	margin-bottom: -140px;
+	margin-bottom: -160px;
 	position: relative;
 	z-index: 2;
 }
