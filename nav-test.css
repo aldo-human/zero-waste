@@ -55,6 +55,7 @@
 	position: absolute;
 	top: 32.33%;
 	left: 27.42%;
+	z-index: 1;
 }
 
 .af-video-container-2 {
@@ -64,26 +65,28 @@
 .af-title {
   color: #2BB573;
   font-family: Montserrat;
-  font-size: 4em;
+  font-size: calc(1em + 3vw);
   font-weight: 700;
 }
 
 .af-title:before {
   content: "CETYS";
   display: block;
-  font-size: 1rem;
+  font-size: calc(1rem + .1vw);
   font-weight: 400;
   margin-bottom: -20px;
 }
 
 .af-text {
   color: #BCBDBF;
-  font-size: 1em;
+  font-size: calc(.8em + .1vw);
   font-family: Montserrat;
 }
 
 .zw-title-container {
 	margin-bottom: -140px;
+	position: relative;
+	z-index: 2;
 }
 /*Bootstrap Breakpoints*/
 
@@ -167,7 +170,7 @@
 	display: none;
 }
 
-..af-video-container-2 {
+.af-video-container-2 {
 	display: block;
 }
 
