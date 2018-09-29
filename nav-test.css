@@ -82,7 +82,9 @@
   font-family: Montserrat;
 }
 
-
+.zw-title-container {
+	margin-bottom: -50px;
+}
 /*Bootstrap Breakpoints*/
 
 /*
