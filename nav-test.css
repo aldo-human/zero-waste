@@ -99,13 +99,18 @@
 .zwda-title {
   color: #2BB573;
   font-family: Montserrat;
-  font-size: 1.3em;
+  font-size: 1em;
 }
 
 .fa-chevron-circle-down {
   color: #2BB573;
 }
 
+.zw-down-arrow {
+	position: absolute;
+    top: 80%;
+    left: 43.6%;
+}
 /*Bootstrap Breakpoints*/
 
 /*
