@@ -186,11 +186,11 @@
     margin-top: calc(-320px - 8vw);
 }
 
-h1 {
+.zwoc-title" {
   font-family: Montserrat;
   color: #fff;
   font-weight: 700;
-  font-size: calc(1em + 1.4vw);
+  font-size: calc(1em + 1vw);
 }
 
 /*Real Styles*/
