@@ -111,6 +111,51 @@
     top: 85%;
     left: 45%;
 }
+
+/*Objetivos*/
+
+.zw-objetivos {
+	background-color: #2BB573;
+}
+
+.zwo-title {
+	font-family: Montserrat;
+	font-size: calc(1em + 5vw);
+	color: #fff;
+}
+
+.zwo-text {
+	font-family: Montserrat;
+	font-size: calc(.5em + 5vw);
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*Bootstrap Breakpoints*/
 
 /*
@@ -167,8 +212,6 @@
 /*Specific for above the fold video section*/
 
 }
-
-
 
 @media (max-width:75.625em) { 
 	.af-section {
