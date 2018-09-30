@@ -183,6 +183,16 @@
 	left: 27.42%;
 }
 
+.zw-down-arrow {
+	position: absolute;
+    top: 82%;
+    left: 43.8%;
+}
+
+.zwda-title {
+  font-size: .9em;
+}
+
 @media (max-width:53.4375em) { 
 
 .af-section {
