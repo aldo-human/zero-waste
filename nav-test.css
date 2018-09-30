@@ -138,7 +138,7 @@
 
 
 .zw-image {
-  max-width: 200px;
+  max-width: 250px;
 }
 
 .post-body{
@@ -151,7 +151,6 @@
 
 .post-body {
     width: 100%;
-    margin: 20px auto;
 }
 
 #flippy, .flippy2 {
