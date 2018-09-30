@@ -336,4 +336,8 @@
   font-size: 1em;
 }
 
+.zw-image {
+  max-height: 200px;
+}
+
 }
