@@ -143,14 +143,8 @@
 
 .post-body{
   text-align: center;
-  background: #2BB573;
-}
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
-
-
-.post-body {
-    width: 100%;
+  background: #35AF72;
+  width: 100%;
 }
 
 #flippy, .flippy2 {
