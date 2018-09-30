@@ -95,6 +95,17 @@
 	position: relative;
 	z-index: 2;
 }
+
+.zwda-title {
+  color: #2BB573;
+  font-family: Montserrat;
+  font-size: 1.3em;
+}
+
+.fa-chevron-circle-down {
+  color: #2BB573;
+}
+
 /*Bootstrap Breakpoints*/
 
 /*
