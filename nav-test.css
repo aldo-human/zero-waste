@@ -115,18 +115,19 @@
 /*Objetivos*/
 
 .zw-objetivos {
-	background-color: #2BB573;
+	background-color: #35AF72;
 }
 
 .zwo-title {
 	font-family: Montserrat;
-	font-size: calc(1em + 5vw);
+	font-size: calc(1em + 1vw);
 	color: #fff;
+	font-weight: 700;
 }
 
 .zwo-text {
 	font-family: Montserrat;
-	font-size: calc(.5em + 5vw);
+	font-size: calc(.5em + .5vw);
 	color: #fff;
 }
 
