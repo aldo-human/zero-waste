@@ -179,7 +179,7 @@
     position: relative;
     background: #fff;
     margin-top: calc(-320px - 7.5vw);
-    padding: 40px inherit;
+    padding: 50px 10px;
 }
 
 .zwoc-title {
