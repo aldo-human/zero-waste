@@ -296,7 +296,6 @@
 #flippanel {
 	padding: 90px 10px;
 	margin-top: calc(-320px - 14vw);
-
 }
 
 }
@@ -358,6 +357,10 @@
 
 .zw-image {
   max-height: 160px;
+}
+
+#flippanel {
+	padding: 60px 10px;
 }
 
 }
