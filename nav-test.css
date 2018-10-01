@@ -151,7 +151,12 @@
     text-align: center;
 }
 
-#flippy button, .flippy2 button {
+.flippy button, 
+.flippy2 button,
+.flippy3 button,
+.flippy4 button,
+.flippy5 button,
+.flippy6 button {
     background: #E2E2E2;
     color: #767676;
     text-align: center;
