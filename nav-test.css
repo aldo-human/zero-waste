@@ -282,6 +282,19 @@
 
 }
 
+@media only screen and (max-width:86.875em) { 
+
+	.zwo-img-2 {
+  max-width: 120px;
+}
+
+.zwoc-text {
+  font-size: calc(.8em + .1vw);
+  margin: 10px 10px !important;
+}
+
+}
+
 @media (max-width:75.625em) { 
 	.af-section {
 	width: 820px;
