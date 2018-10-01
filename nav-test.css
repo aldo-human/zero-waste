@@ -171,20 +171,16 @@
 }
 
 
-#flippanel {
-    padding: 1px;
-    text-align: center;
-    background: #2BB573;
-    border: 0px;
-    border-radius: 15px;
-}
-
-#flippanel {
+#flippanel,
+#flippanel2,
+#flippanel3 {
+	text-align: center;
     display: none;
     position: relative;
     background: #fff;
     margin-top: calc(-320px - 7.5vw);
     padding: 50px 10px;
+    border-radius: 15px;
 }
 
 .zwoc-title {
