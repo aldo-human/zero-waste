@@ -193,7 +193,7 @@
 
 .zwoc-text {
   color: #2BB573;
-  font-size: 1.2em;
+  font-size: calc(1em + .1vw);
   font-family: Montserrat;
   font-weight: 700;
 }
