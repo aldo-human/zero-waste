@@ -346,6 +346,20 @@ label.form-check-label {
 	font-family: Montserrat;
 }
 
+.zwa-acciones {
+	background-image: ;
+}
+
+
+
+
+	  <div class="tab-pane fade bg-white py-5 zwa-acciones" id="acciones" role="tabpanel" aria-labelledby="pills-acciones-tab">
+						  	<div class="container-fluid">
+						  		<div class="row">
+						  			<div class="col-md-12">
+						  				<h3 class="zwaa-title>Acciones"></h3>
+						  				<p class="zwaa-text">El cambio comienza en nuestra mentalidad, pero es necesario que nuestras ideas se conviertan en acciones</p>
+
 /*Bootstrap Breakpoints*/
 
 /*
