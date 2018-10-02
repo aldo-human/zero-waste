@@ -430,6 +430,16 @@ background: #848685;
   color: #000;
 }
 
+.zwas-btn {
+	background: #fff;
+    color: #20C896;
+    font-weight: 700;
+    padding: 10px 20px;
+    box-shadow: none;
+    border: none;
+    border-radius: 5px;
+}
+
 /*Same styles for info card*/
 
 .zwas-info-card-pa {
