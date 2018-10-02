@@ -272,20 +272,6 @@
 	font-weight: 700;
 }
 
-/*Acciones*/
-
-.zw-acciones {
-    background-color: #35AF72;
-}
-
-.zw-acciones .nav-link {
-	background: #17613e;
-	text-align: center;
-	color: #fff;
-	font-size: calc(.5rem + .8vw);
-	font-family: Montserrat;
-}
-
 footer {
 	background: #404040;
 }
@@ -342,6 +328,23 @@ label.form-check-label {
 	margin-left: -180px;
 }
 
+/*Acciones*/
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+	background: #35AF72;
+}
+
+.zw-acciones {
+    background-color: #35AF72;
+}
+
+.zw-acciones .nav-link {
+	background: #17613e;
+	text-align: center;
+	color: #fff;
+	font-size: calc(.5rem + .8vw);
+	font-family: Montserrat;
+}
 
 /*Bootstrap Breakpoints*/
 
