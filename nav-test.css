@@ -215,7 +215,39 @@
   border-radius: 10px;
 }
 
+/*Counter CSS Starts*/
 
+.zw-contador {
+	background: url("https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/cubo.png");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.zw-contador-bd img {
+	width: 100%;
+}
+
+.no-ppp {
+	padding: 0;
+}
+
+.zwc-pline-b {
+	margin-top: -170px;
+	height: 1000px;
+}
+
+.zwc-pline-b2 {
+	background: #35AF72;
+	margin-top: -1px;
+}
+
+.zwc-pline-t {
+	width: 100%;
+	height: 200px;
+	border-bottom-left-radius: 50% 50%;
+	border-bottom-right-radius: 50% 50%;
+}
 
 
 
