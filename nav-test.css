@@ -354,7 +354,7 @@ label.form-check-label {
 }
 
 .zwaa-title {
-	font-size: calc(1em + 3vw);
+	font-size: calc(1em + 3.5vw);
 	font-family: Arvo;
 	color: #2bb573;
 	font-weight: 700;
