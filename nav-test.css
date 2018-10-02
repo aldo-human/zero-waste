@@ -546,11 +546,13 @@ ul.zwas-list-y {
 	color: #fff;
 	font-family: Montserrat;
 	font-weight: 700;
+	font-size: calc(1em + 2.5vw);
 }
 
 .zw-acercade-text {
 	color: #fff;
 	font-family: Montserrat;
+	font-size: calc(1em + .3vw);
 }
 
 
