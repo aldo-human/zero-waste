@@ -286,7 +286,7 @@
 @media only screen and (max-width:86.875em) { 
 
 	.zwo-img-2 {
-  max-width: 100px;
+  height: 130px;
 }
 
 .zwoc-text {
@@ -359,7 +359,7 @@
 }
 
 .zw-image {
-  max-height: 160px;
+  height: 140px;
 }
 
 #flippanel,
