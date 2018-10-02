@@ -504,7 +504,7 @@ ul.zwas-list-y {
 
 .zwap-text {
   color: #2BB573;
-  font-size: calc(1em + 1vw);
+  font-size: calc(1em + .5vw);
   font-family: Montserrat;
 }
 
