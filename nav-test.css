@@ -197,6 +197,7 @@
   font-size: calc(1em + .1vw);
   font-family: Montserrat;
   font-weight: 700;
+  max-height: 33.4px;
 }
 
 .zwo-img-2 {
@@ -298,7 +299,7 @@
 #flippanel2,
 #flippanel3 {
 	padding: 90px 10px;
-	margin-top: calc(-320px - 14vw);
+	margin-top: calc(-320px - 9vw);
 }
 
 }
