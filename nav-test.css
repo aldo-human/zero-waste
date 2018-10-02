@@ -486,6 +486,15 @@ ul.zwas-list-y {
 	list-style-image: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/yes-mini.png);
 }
 
+.zwas-info-card-p ul.ul.zwas-list-y,
+.zwas-info-card-p ul.ul.zwas-list-y,
+.zwas-info-card-p h3 {
+	color: #000;
+}
+
+.zwas-rs-text {
+	color: #fff;
+}
 
 /*Bootstrap Breakpoints*/
 
