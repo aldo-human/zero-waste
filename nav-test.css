@@ -283,7 +283,7 @@ footer {
 .footer-text {
 	color: #fff;
 	font-family:Montserrat;
-	font-size: 1.5em;
+	font-size: calc(1em + .75vw);
 }
 
 .zw-contact {
@@ -295,7 +295,7 @@ footer {
 	color: #fff;
 	font-weight: 700;
 	text-align: center;
-	font-size: 3rem;
+	font-size: calc(1em + 3vw);
 }
 
 /*
@@ -325,7 +325,7 @@ label.form-check-label {
 }
 
 .three-image {
-	margin-left: -180px;
+	margin-left: calc(-100px - 6vw);
 }
 
 /*Acciones*/
