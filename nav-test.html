@@ -175,7 +175,24 @@
 							<div class="container-fluid p-5 zwas-row">
 							  <div class="row py-5 my-5">
 							    <div class="col-md-3">
-							            <div id="flippy"><button class="zwas-btn-pa"><div class="btn-container"><img src="https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/palstico-aluminio.svg"><h3 class="mt-4">Plastico y aluminio</h3></div></button></div>
+							               <div id="zwas-info-card-pa-btn1"><button class="zwas-btn-pa"><div class="btn-container"><img src="https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/palstico-aluminio.svg"><h3 class="mt-4">Plastico y aluminio</h3></div></button></div>
+      <div class="zwas-info-card-pa py-5 px-2 text-center" id="zwas-info-card-pa">
+  <img src="https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/palstico-aluminio.svg" class="mx-auto text-center"><h3 class="my-4 text-center">Plastico y aluminio</h3>
+        <ul class="zwas-list-y my-4">
+  <li>Botellas de agua</li>
+  <li>Botellas de jugos y sodas</li>
+  <li>Yogurt</li>
+  <li>Galones</li>
+  <li>Productos de limpieza</li>
+</ul>
+<ul class="zwas-list-n my-4">
+  <li>Popotes, cubiertos, vasos</li>
+  <li>Charolas, tapa de cafe</li>
+  <li>Foam, empaques plastificados</li>
+  <li>Plumas, reglas</li>
+</ul>
+<div id="zwas-info-card-pa-btn2"><button>button</button></div>
+</div>
 							    </div>
 							    <div class="col-md-3">
 							            <div id="flippy"><button class="zwas-btn-p"><div class="btn-container"><img src="https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/papel.svg"><h3 class="mt-4">Papel</h3></div></button></div>
@@ -378,6 +395,18 @@
 			        $("#flippanel3").slideToggle("normal");
 			    });
 			    });
+
+			$(document).ready(function() {
+    $("#zwas-info-card-pa-btn1").click(function() {
+        $("#zwas-info-card-pa").slideToggle("normal");
+    });
+});
+
+$(document).ready(function() {
+    $("#zwas-info-card-pa-btn2").click(function() {
+        $("#zwas-info-card-pa").slideToggle("normal");
+    });
+});
 			</script>
 			<script> 
     var counter_list = [10,10,100];
