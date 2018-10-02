@@ -784,4 +784,13 @@ ul.objetivos-generales-list {
 	#acciones {
 		padding: 0px 0px !important;
 	}
+
+	.zwas-info-card-pa,
+	.zwas-info-card-p,
+	.zwas-info-card-o,
+	.zwas-info-card-sr {
+		margin-top: calc(-100px - 50vw);
+	}
+
+	
 }
