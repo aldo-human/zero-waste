@@ -257,14 +257,14 @@
   margin: 1px 5px;
   border-radius: 10px;
   font-family: Montserrat;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .container_inner::after {
 	content: "Kg";
 	color: #fff;
 	font-family: Montserrat;
-	font-size: 6rem;
+	font-size:  font-size: calc(1em + 4vw);
 	font-weight: 700;
 }
 
