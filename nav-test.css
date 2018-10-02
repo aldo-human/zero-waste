@@ -348,7 +348,7 @@ label.form-check-label {
 
 .zwa-acciones {
 	background-image: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/flecha-acciones.svg);
-	background-size: auto;
+	background-size: contain;
 	background-position: bottom right;
 	background-repeat: no-repeat;
 }
