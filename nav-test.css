@@ -556,7 +556,18 @@ ul.zwas-list-y {
 }
 
 
+/*Objetivos Generales*/
 
+.objetivos-generales {
+	background: #fff;
+	font-family: Montserrat;
+	font-weight: 700;
+}
+
+ul.objetivos-generales-list {
+	color: #124d30;
+	font-family: Montserrat;
+}
 
 
 
