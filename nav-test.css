@@ -775,3 +775,13 @@ ul.objetivos-generales-list {
 }
 
 }
+
+@media only screen and (max-width:48.375em) { 
+	.zwa-acciones {
+		background-image: none;
+	}
+
+	#acciones {
+		padding: 0px 0px !important;
+	}
+}
