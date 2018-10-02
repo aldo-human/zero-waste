@@ -508,6 +508,31 @@ ul.zwas-list-y {
   font-family: Montserrat;
 }
 
+/*Erres*/
+
+.zwap-icon {
+  height: 120px;
+}
+
+.zwap-text {
+  color: #2BB573;
+  font-size: calc(1em + 1vw);
+  font-family: Montserrat;
+}
+
+.zwa5-title {
+  color: #2BB573;
+  font-weight: 700;
+  font-size: calc(1em + 1.4vw);
+  font-family: Montserrat;
+}
+
+.zwa5-text {
+  color: #808080;
+  font-size: calc(1em + .55vw);
+  
+}
+
 /*Bootstrap Breakpoints*/
 
 /*
