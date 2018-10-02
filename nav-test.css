@@ -253,7 +253,7 @@
   background-color: #9B9B9B;
   color: #ffffff;
   font-size: calc(1em + 4vw);
-  padding: 5px 20px;
+  padding:  calc(1px + .8vw);
   margin: 1px 5px;
   border-radius: 10px;
   font-family: Montserrat;
@@ -264,14 +264,14 @@
 	content: "Kg";
 	color: #fff;
 	font-family: Montserrat;
-	font-size:  font-size: calc(1em + 4vw);
+	font-size: calc(1em + 4vw);
 	font-weight: 700;
 }
 
 .zwc-title {
 	color: #fff;
 	font-family: Montserrat;
-	font-size: 3rem;
+	font-size: calc(1em + 3vw);
 	font-weight: 700;
 }
 
