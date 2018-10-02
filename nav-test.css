@@ -366,6 +366,59 @@ label.form-check-label {
 	color: #bcbdbf;
 }
 
+/*Separar Residuos*/
+.zwas-btn-o,
+.zwas-btn-pa,
+.zwas-btn-rs,
+.zwas-btn-p{
+  box-shadow: none;
+  border: none;
+  border-radius: 30px;
+  width: 100%;
+  height: calc(100px + 16vw);
+}
+
+.zwas-btn-o {
+  background: #066D43;
+}
+
+.zwas-btn-p {
+  background: #FCCC1C;
+}
+
+.zwas-btn-rs {
+background: #848685;
+}
+
+.zwas-btn-pa {
+   background-color: #2260AA;
+}
+
+.zwas-btn-o img,
+.zwas-btn-pa img,
+.zwas-btn-rs img,
+.zwas-btn-p  img {
+  width: 60%;
+}
+
+.zwas-btn-o:hover,
+.zwas-btn-pa:hover,
+.zwas-btn-rs:hover,
+.zwas-btn-p:hover {
+  cursor: pointer;
+} 
+
+.zwas-row h3{
+  font-size: calc(1em + .5vw);
+  color: #fff;
+  font-family: Montserrat;
+  font-weight: 700;
+}
+
+.zwas-btn-p h3 {
+  color: #000;
+}
+
 
 
 	 
