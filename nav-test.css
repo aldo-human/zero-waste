@@ -286,6 +286,61 @@
 	font-family: Montserrat;
 }
 
+footer {
+	background: #404040;
+}
+
+.logo-cetys-footer {
+	max-width: 150px;
+}
+
+.footer-text {
+	color: #fff;
+	font-family:Montserrat;
+	font-size: 1.5em;
+}
+
+.zw-contact {
+	background: #35AF72;
+}
+
+.contact-title {
+	font-family: Montserrat;
+	color: #fff;
+	font-weight: 700;
+	text-align: center;
+	font-size: 3rem;
+}
+
+/*
+.contact-three {
+	background: url(../assets/images/ilustrracion-contactanos.svg);
+	background-position: bottom left;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+*/
+
+.zw-contact-btn {
+	background: #066D43;
+	color: #fff;
+	font-family: Montserrat;
+	font-weight: 700;
+	display: block;
+	font-size: 2rem;
+}
+
+/*#35AF72*/
+
+label.form-check-label {
+	color: #fff !important;
+	font-family: Montserrat !important;
+	font-size: 1.3rem !important;
+}
+
+.three-image {
+	margin-left: -180px;
+}
 
 
 /*Bootstrap Breakpoints*/
