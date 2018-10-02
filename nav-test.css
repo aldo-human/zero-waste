@@ -354,13 +354,14 @@ label.form-check-label {
 }
 
 .zwaa-title {
-	font-size: calc(1em + 6vw);
+	font-size: calc(1em + 3vw);
 	font-family: Arvo;
 	color: #2bb573;
+	font-weight: 700;
 }
 
 .zwaa-text {
-	font-size: calc(1em + 3vw);
+	font-size: calc(1em + 1vw);
 	font-family: Montserrat;
 	color: #bcbdbf;
 }
