@@ -138,7 +138,7 @@
 
 
 .zw-image {
-  max-height: 250px;
+  max-height: 230px;
 }
 
 .post-body{
@@ -201,7 +201,7 @@
 }
 
 .zwo-img-2 {
-  max-width: 150px;
+  height: 180px;
 }
 
 
@@ -299,7 +299,7 @@
 #flippanel2,
 #flippanel3 {
 	padding: 90px 10px;
-	margin-top: calc(-320px - 14vw);
+	margin-top: calc(-320px - 11vw);
 }
 
 }
@@ -367,6 +367,12 @@
 #flippanel2,
 #flippanel3 {
 	padding: 60px 10px;
+}
+
+#flippanel,
+#flippanel2,
+#flippanel3 {
+    margin-top: calc(-320px - 4vw);
 }
 
 }
