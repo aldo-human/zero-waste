@@ -188,6 +188,7 @@
   color: #fff;
   font-weight: 700;
   font-size: calc(1em + 1vw);
+  max-height: 33.2px;
 }
 
 /*Real Styles*/
