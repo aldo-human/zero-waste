@@ -461,7 +461,10 @@ background: #848685;
    width: 100%;
 }
 
-.zwas-info-card-pa img {
+.zwas-info-card-pa img,
+.zwas-info-card-p img,
+.zwas-info-card-o img,
+.zwas-info-card-rs img {
   width: 30%;
 }
 
