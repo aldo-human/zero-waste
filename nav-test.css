@@ -368,7 +368,10 @@ label.form-check-label {
 
 /*Separar Residuos*/
 
-#zwas-info-card-pa {
+#zwas-info-card-pa,
+#zwas-info-card-p,
+#zwas-info-card-o,
+#zwas-info-card-rs {
   display: none;
   position: relative;
   margin-top: calc(-100px - 16vw);
