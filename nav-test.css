@@ -250,7 +250,7 @@
 }
 
 .num_tiles {
-  width:30px;
+  width: 30px;
   height: 30px;
   background-color: #9B9B9B;
   color: #ffffff;
@@ -263,14 +263,14 @@
 .container_inner::after {
 	content: "Kg";
 	color: #fff;
-	font-family: gotham;
+	font-family: Montserrat;
 	font-size: 6rem;
 	font-weight: 700;
 }
 
 .zwc-title {
 	color: #fff;
-	font-family: gotham;
+	font-family: Montserrat;
 	font-size: 3rem;
 	font-weight: 700;
 }
