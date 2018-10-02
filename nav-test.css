@@ -437,6 +437,30 @@ background: #848685;
    width: 100%;
 }
 
+.zwas-info-card-o {
+   background-color: #066D43;
+   display: none;
+   position: relative;
+   border-radius: 30px;
+   width: 100%;
+}
+
+.zwas-info-card-p {
+   background-color: #FCCC1C;
+   display: none;
+   position: relative;
+   border-radius: 30px;
+   width: 100%;
+}
+
+.zwas-info-card-rs {
+   background-color: #848685;
+   display: none;
+   position: relative;
+   border-radius: 30px;
+   width: 100%;
+}
+
 .zwas-info-card-pa img {
   width: 30%;
 }
