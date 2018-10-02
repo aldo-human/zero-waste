@@ -496,6 +496,18 @@ ul.zwas-list-y {
 	color: #fff;
 }
 
+/*Actua*/
+
+.zwap-icon {
+  height: 120px;
+}
+
+.zwap-text {
+  color: #2BB573;
+  font-size: calc(1em + 1vw);
+  font-family: Montserrat;
+}
+
 /*Bootstrap Breakpoints*/
 
 /*
