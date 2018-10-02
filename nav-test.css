@@ -250,14 +250,14 @@
 }
 
 .num_tiles {
-  width: 30px;
-  height: 30px;
   background-color: #9B9B9B;
   color: #ffffff;
   font-size: calc(1em + 4vw);
   padding: 5px 20px;
   margin: 1px 5px;
   border-radius: 10px;
+  font-family: Montserrat;
+  font-weight: 700;
 }
 
 .container_inner::after {
