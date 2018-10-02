@@ -448,9 +448,14 @@ background: #848685;
   font-size: calc(.4rem + .5vw);
 }
 
+ul.zwas-list-n {
+	list-style-image: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/no-icon.svg);
+}
 
+ul.zwas-list-y {
+	list-style-image: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/no-icon.svg);
+}
 
-	 
 
 /*Bootstrap Breakpoints*/
 
