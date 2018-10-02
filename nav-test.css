@@ -570,6 +570,7 @@ ul.zwas-list-y {
 	font-weight: 700;
 	color: #2bb573;
     font-size: calc(1rem + 2.8vw);
+    text-align: left;
 
 }
 
@@ -579,6 +580,9 @@ ul.objetivos-generales-list {
 	font-size: calc(1rem + .6vw);
 }
 
+.objetivos-generales-img {
+	width: calc(100px + 10vw);
+}
 
 
 
