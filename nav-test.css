@@ -562,6 +562,7 @@ ul.zwas-list-y {
 	background: #fff;
 	font-family: Montserrat;
 	font-weight: 700;
+	font-size: calc(1em + 2.8vw);
 }
 
 .objetivos-generales-title {
@@ -573,6 +574,7 @@ ul.zwas-list-y {
 ul.objetivos-generales-list {
 	color: #124d30;
 	font-family: Montserrat;
+	font-size: calc(1em + .6vw);
 }
 
 
