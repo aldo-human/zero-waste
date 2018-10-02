@@ -523,14 +523,17 @@ ul.zwas-list-y {
 .zwa5-title {
   color: #2BB573;
   font-weight: 700;
-  font-size: calc(1em + 1.4vw);
+  font-size: calc(1em + 1vw);
   font-family: Montserrat;
 }
 
 .zwa5-text {
   color: #808080;
-  font-size: calc(1em + .55vw);
-  
+  font-size: calc(1em + .3vw);
+}
+
+.zwa5-img {
+	height: calc(200px + 17vw);
 }
 
 /*Bootstrap Breakpoints*/
