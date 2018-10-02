@@ -538,10 +538,20 @@ ul.zwas-list-y {
 
 /*---------------------------------------------------------Acerca De-------------------------------------*/
 
-.acerca-de-intro {
+.acerca-de-af {
 	background: #2bb573;
 }
 
+.zw-acercade-title {
+	color: #fff;
+	font-family: Arvo;
+	font-weight: 700;
+}
+
+.zw-acercade-text {
+	color: #fff;
+	font-family: Montserrat;
+}
 
 
 
