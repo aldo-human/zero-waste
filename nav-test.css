@@ -643,6 +643,11 @@ ul.objetivos-generales-list {
 	color: #fff;
     font-size: calc(1em + 2.7vw);
     font-family: Montserrat;
+    font-weight: 700;
+}
+
+.preguntas-frecuentes {
+	background: #20C896;
 }
 /*Bootstrap Breakpoints*/
 
