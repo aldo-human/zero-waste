@@ -585,6 +585,53 @@ ul.objetivos-generales-list {
 	width: calc(100px + 10vw);
 }
 
+/*preguntas-frecuentes.html*/
+.pfp-title {
+  color: #20C896;
+  font-family: Montserrat;
+  font-size: calc(1em + .7vw);
+  font-weight: 600;
+}
+
+.pf-pregunta {
+  background: #fff;
+  border-bottom: none;
+}
+
+.pf-pregunta-top {
+  background: #fff;
+  border-top: #BCBDBF solid 3px;
+  border-bottom: none;
+}
+
+.pf-pregunta-bottom {
+  background: #fff;
+  border: grey solid 1px;
+}
+
+.card {
+  border: none;
+}
+
+.fa-chevron-circle-down {
+  color: #20C896;
+}
+
+.pfp-text {
+  color: #a1a2a3;
+  font-family: Montserrat;
+  font-size: calc(1em + .3vw);
+  text-align: justify;
+}
+
+.pf-link {
+  color: #20C896;
+}
+
+.pf-link:hover {
+  color: #17936e;
+}
+
 /*Bootstrap Breakpoints*/
 
 /*
