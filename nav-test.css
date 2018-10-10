@@ -632,6 +632,18 @@ ul.objetivos-generales-list {
   color: #17936e;
 }
 
+.aft-container {
+	background: #20C896;
+    width: calc(100px + 45vw);
+    margin: auto;
+    text-align: center;
+}
+
+.aftc-title {
+	color: #fff;
+    font-size: calc(1em + 2.7vw);
+    font-family: Montserrat;
+}
 /*Bootstrap Breakpoints*/
 
 /*
