@@ -298,15 +298,6 @@ footer {
 	font-size: calc(1em + 3vw);
 }
 
-/*
-.contact-three {
-	background: url(../assets/images/ilustrracion-contactanos.svg);
-	background-position: bottom left;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-*/
-
 .zw-contact-btn {
 	background: #066D43;
 	color: #fff;
@@ -593,38 +584,6 @@ ul.objetivos-generales-list {
 .objetivos-generales-img {
 	width: calc(100px + 10vw);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*Bootstrap Breakpoints*/
 
