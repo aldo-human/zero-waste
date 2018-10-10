@@ -796,6 +796,39 @@ ul.objetivos-generales-list {
 
 @font-face {
 	font-family: Gotham;
-	src: url(...);
+	src: url(...) format(...);
 	font-weight: 400;
 }
+
+@font-face {
+	font-family: Gotham;
+	src: url(...) format(...);
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: Gotham;
+	src: url(...) format(...);
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Aleo;
+	src: url(...) format(...);
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: Aleo;
+	src: url(...) format(...);
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: Gotham;
+	src: url(...) format(...);
+	font-weight: 400;
+	font-style: italic;
+}
+
