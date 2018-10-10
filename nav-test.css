@@ -670,7 +670,7 @@ ul.objetivos-generales-list {
 @media (max-width: 62em) { 
 
 	.nav-link {
-		font-size: calc(.7em + .1vw);
+		font-size: calc(1em + .2vw);
 		padding: 0px;
 	}
 
@@ -790,4 +790,12 @@ ul.objetivos-generales-list {
 	}
 
 	
+}
+
+/*Font Declarations*/
+
+@font-face {
+	font-family: Gotham;
+	src: url(...);
+	font-weight: 400;
 }
