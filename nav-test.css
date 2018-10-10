@@ -674,6 +674,53 @@ ul.objetivos-generales-list {
 		padding: 0px;
 	}
 
+
+    #zwas-info-card-pa, 
+    #zwas-info-card-p, 
+    #zwas-info-card-o, 
+    #zwas-info-card-rs {
+        margin-top: calc(-200px - 26vw);
+    }
+
+    .zwas-btn-o img,
+    .zwas-btn-pa img,
+    .zwas-btn-rs img,
+    .zwas-btn-p img {
+    	width: 44%;
+    }
+
+    .zwas-btn-o, 
+    .zwas-btn-pa, 
+    .zwas-btn-rs, 
+    .zwas-btn-p {
+    	margin: 1em auto;
+    }
+
+    .zwas-btn-o, 
+    .zwas-btn-pa, 
+    .zwas-btn-rs, 
+    .zwas-btn-p {
+    	height: calc(200px + 26vw);
+    }
+
+    .zwas-list-n, 
+    .zwas-list-y {
+    	font-size: calc(.4rem + 2vw);
+    }
+
+    .zwas-row {
+    	padding: 1em !important;
+    }
+
+    .zwa-acciones {
+    	padding: 1em !important;
+    }
+
+    .zwap-text {
+    	text-align: center;
+    } 
+
+
  }
 
 /*Extra large devices (large desktops, 1200px and up)*/
