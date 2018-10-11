@@ -29,6 +29,10 @@
 	transform: translate(0px, -4px); 
 }
 
+.nav-link.active {
+	border: solid 2px #35AF72;
+}
+
 .zw-logo {
 	width: calc(100px + 2vw);
 }
