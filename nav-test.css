@@ -657,7 +657,7 @@ ul.objetivos-generales-list {
   width: calc(100px + 10vw);
 }
 
-section.curve {
+.curve {
   position: relative;
   margin: 0;
   padding: 0;
