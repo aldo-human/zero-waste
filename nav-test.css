@@ -657,6 +657,13 @@ ul.objetivos-generales-list {
   width: calc(100px + 10vw);
 }
 
+section.curve {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background: red;
+  width: 100%;
+}
 
 /*Bootstrap Breakpoints*/
 
