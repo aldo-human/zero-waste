@@ -633,6 +633,10 @@ ul.zwas-list-y {
   background: #fff;
   font-family: Montserrat;
   font-weight: 700;
+  background-image: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/curve-1.png);
+  background-position: center top;
+  background-size: auto;
+  background-repeat: no-repeat;
 }
 
 .objetivos-generales-title {
@@ -641,10 +645,6 @@ ul.zwas-list-y {
   color: #2bb573;
   font-size: calc(1rem + 2.8vw);
   text-align: left;
-  background-image: url(https://s3.us-east-2.amazonaws.com/zero-waste.lackofanatomy.com/media/curve-1.png);
-  background-position: center top;
-  background-size: auto;
-  background-repeat: no-repeat;
 }
 
 ul.objetivos-generales-list {
