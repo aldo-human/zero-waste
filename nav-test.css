@@ -687,45 +687,6 @@ ul.objetivos-generales-list {
   width: 100%;
 }
 
-/*reglamento.html*/
-
-.zw-reglamento {
-  background: #2BB573;
-}
-
-.adis-title {
-  color: #fff;
-  font-family: Arvo;
-  font-size: calc(1em + 5.5vw);
-}
-
-.adis-subtitle {
-  color: #fff;
-  font-family: Arvo;
-  font-size: calc(1em + 2vw);
-}
-
-.adrs-card {
-  background: #fff;
-}
-
-.card-number {
-  color: #2BB573;
-  font-family: Arvo;
-  font-size: calc(1em + 7vw);
-}
-
-.card-text {
-  font-family: Montserrat;
-  color: #33664D;
-  font-size: calc(1em + .2vw);
-  font-weight: 700;
-}
-
-.two-digit-number {
-  font-size: calc(1em + 5vw);
-}
-
 /*Bootstrap Breakpoints*/
 
 /*
